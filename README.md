@@ -28,7 +28,7 @@ class Developer:
     fun_fact = "I optimize Fibonacci algorithms for fun"
 ```
 
-I'm a developer who loves **building full-stack apps**, diving into **data**, and chasing elegant solutions to hard problems. From Discord bots to expense trackers to crypto data pipelines — I ship, learn, and tilt forward.
+I'm a developer who loves **building full-stack apps**, diving into **data**, and chasing elegant solutions to hard problems. I ship, learn, and tilt forward.
 
 <br/>
 
@@ -46,40 +46,15 @@ I'm a developer who loves **building full-stack apps**, diving into **data**, an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SoTilted&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&rank_icon=github" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=SoTilted&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoTilted&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoTilted&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9)](https://github.com/SoTilted)
+
+[![GitHub streak](https://github-readme-streak-stats.demolab.com?user=SoTilted&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea)](https://git.io/streak-stats)
 
 </div>
 
-<br/>
-
-### 🏆 Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SoTilted&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
-<br/>
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/SoTilted/Jarvis">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin?username=SoTilted&repo=Jarvis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/SoTilted/salarly">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin?username=SoTilted&repo=salarly&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/SoTilted/inventory-app-v1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin?username=SoTilted&repo=inventory-app-v1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/SoTilted/crypto_data_yfinance">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin?username=SoTilted&repo=crypto_data_yfinance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" />
-</a>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoTilted&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8)](https://github.com/SoTilted)
 
 </div>
 
